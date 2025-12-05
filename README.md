@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <img src="./assets/hero.png" alt="Tomer Abarbanel" width="300" />
+  <img src="./assets/hero.jpg" alt="Tomer Abarbanel" width="300" />
 </p>
 
 Hi — I'm Tomer Abarbanel, a full-stack web developer who loves building fast, accessible, and maintainable applications. I work with modern JavaScript ecosystems and enjoy crafting developer-friendly APIs and delightful UIs.
