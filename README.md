@@ -1,6 +1,6 @@
-# Hi, I'm Tomer Abarbanel 👋
+# Hi, I'm Tomer 👋
 
-![Header](https://img.shields.io/badge/👨‍💻-Tomer%20Abarbanel-2b6cb0?style=for-the-badge)
+## Fullstack / Frontend Developer
 
 Hi — I'm Tomer Abarbanel, a full-stack web developer who loves building fast, accessible, and maintainable applications. I work with modern JavaScript ecosystems and enjoy crafting developer-friendly APIs and delightful UIs.
 
