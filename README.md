@@ -1,74 +1,13 @@
+<h1 align="center">Hi 👋, I'm Tomer</h1>
+<h3 align="center">Fullstack / Frontend Developer</h3>
 
-<h1 align="center">
- Hi, I'm Tomer 👋
-</h1>
+<p align="center"> <img src="./assets/hero1.jpg" alt="Tomer Abarbanel" height="840" /> </p>
 
-<h3 align="center">
- Fullstack / Frontend Developer
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
 
-<p align="center">
-  <img src="./assets/hero1.jpg" alt="Tomer Abarbanel" width="840" />
+### 💻 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/tomer-abarbanel-809abb229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tomer-Abarbanel" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/tomerabarbanel" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg" alt="tomerabarbanel" height="35" width="40" /></a>
 </p>
-
-Hi — I'm Tomer Abarbanel, a full-stack web developer who loves building fast, accessible, and maintainable applications. I work with modern JavaScript ecosystems and enjoy crafting developer-friendly APIs and delightful UIs.
-
-- 🔭 I’m currently building: meaningful web apps and developer tools
-- 🌱 I’m learning: advanced React patterns, state management and app observability
-- 👯 I’m open to collaborating on: frontend and backend projects, OSS libraries
-- 💬 Ask me about: performance tuning, frontend architecture, Node APIs
-
----
-
-### 🛠️ Tech stack
-React · Node.js · Angular · Vue · JavaScript · TypeScript · HTML · CSS · Sass · Express · MongoDB · Postman · Git · Docker
-
----
-
-### 🚀 Featured projects
-> Replace these with your real repo links and short descriptions.
-
-- [project-one](https://github.com/TomerAb94/project-one) — A short one-line description of what problem it solves.
-- [project-two](https://github.com/TomerAb94/project-two) — A short one-line description.
-- [project-three](https://github.com/TomerAb94/project-three) — A short one-line description.
-
-Tip: Pin the repositories you want highlighted on your GitHub profile, then update these links and descriptions here.
-
----
-
-### 📊 GitHub Stats
-
-![Tomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerAb94&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomerAb94&layout=compact&theme=radical)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=TomerAb94&theme=flat)
-
----
-
-### 📫 Contact
-- Email: tomer@example.com (replace with your email)
-- LinkedIn: https://www.linkedin.com/in/tomer-abarbanel-809abb229/
-- Twitter: https://twitter.com/your-twitter (replace)
-
----
-
-### 🌱 Currently learning
-- Advanced patterns in React/TypeScript
-- Building resilient APIs with Node + Express
-- Observability and performance tuning
-
----
-
-### ✨ Small portfolio section (optional)
-Add a screenshot or GIF of a project here. Example:
-![demo-gif](https://raw.githubusercontent.com/TomerAb94/TomerAb94/main/demo.gif)
-
----
-
-<!--last-update-->
-Last refreshed: 2025-12-05T00:00:00Z
-<!--/last-update-->
-
----
-
-Thanks for stopping by 👋 — feel free to reach out if you want to collaborate!
+<p align="left">📫 <b>Abarbanel1994@gmail.com</b></p>
