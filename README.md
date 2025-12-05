@@ -7,6 +7,7 @@
 
 ### 🧩 Tools & Technologies
 
+<p align="left">
 <img title="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="react" width="40" height="40"/>
 <img title="Redux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redux.svg" alt="redux" width="40" height="40"/>
 <img title="Angular" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/>
@@ -21,7 +22,8 @@
 <img title="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" width="40" height="40"/>
 <img title="CSS3" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="css3" width="40" height="40"/>
 <img title="Sass" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg" alt="sass" width="40" height="40"/>
-     
+</p>
+
 ### 💻 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/tomer-abarbanel-809abb229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tomer-Abarbanel" height="30" width="40" /></a>
