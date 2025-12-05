@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomer</h1>
 <h3 align="center">Fullstack / Frontend Developer</h3>
 
-<p align="center"> <img src="./assets/hero1.jpg" alt="Tomer Abarbanel" height="840" /> </p>
+<p align="center"> <img src="./assets/hero1.jpg" alt="Tomer Abarbanel" width="750" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TomerAb94&label=Profile%20views&color=0e75b6&style=flat" alt="tomerabarbanel" /> </p>
 
 ### 💻 Connect with me
 <p align="left">
