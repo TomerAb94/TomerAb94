@@ -3,12 +3,12 @@
  Hi, I'm Tomer 👋
 </h1>
 
-<h2 align="center">
+<h3 align="center">
  Fullstack / Frontend Developer
-</h2>
+</h3>
 
 <p align="center">
-  <img src="./assets/hero.jpg" alt="Tomer Abarbanel" width="300" />
+  <img src="./assets/hero.jpg" alt="Tomer Abarbanel" width="825" height="550" />
 </p>
 
 Hi — I'm Tomer Abarbanel, a full-stack web developer who loves building fast, accessible, and maintainable applications. I work with modern JavaScript ecosystems and enjoy crafting developer-friendly APIs and delightful UIs.
